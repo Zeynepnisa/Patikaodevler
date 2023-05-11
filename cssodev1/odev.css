@@ -1,0 +1,38 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+
+#first{
+    list-style-type: none;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.second{
+    display: inline-block;
+    padding: 5px;
+}
+
+div {
+    text-align: center;
+}
+
+h2{
+    color: mediumorchid;
+}
+h3{
+    color: goldenrod;
+}
+
+#third {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside ;
+}
+
+#id {
+    text-align: left;
+}
