@@ -1,0 +1,56 @@
+.container {
+    width: 100px;
+    margin-left: 500px;
+    margin-right: auto;
+    margin-top: 200px;  
+}
+
+.search {
+    width: 100%px;
+    padding-left: 60px;
+    text-align: center;
+    background-color: rgb(214, 212, 212);
+}
+
+.input {
+    width: 340px;
+}
+
+ul {
+    list-style: none;
+}
+
+.content {
+    width: 100%;
+}
+
+#d1, #d2 {
+    margin-right: 5px;
+    height: 104px;
+}
+
+#d1, #d2, #d3 {
+    text-align: center;
+    height: 104px;
+}
+
+#d1 {
+    float: left;
+    background-color: aqua;
+    width: 500px;
+    
+}
+#d2 {
+    float: left;
+    background-color: rgb(40, 216, 216);
+    width: 300px;
+}
+
+#d3 {
+    float: left;
+    background-color: rgb(24, 143, 143);
+    width: 484px;
+    padding-top: 10px;
+    height: 94px;
+}
+
